@@ -2,4 +2,9 @@
 title: "Markdown_1"
 output: html_document
 ---
+```{r}
+library(readr)
+apartments_pl_2023_08 <- read_csv("")
+View(apartments_pl_2023_08)
+```
 
